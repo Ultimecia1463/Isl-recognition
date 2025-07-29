@@ -1,5 +1,5 @@
 
-# ✨ Sign Language Recognition System (LSTM + MediaPipe)
+# ✨ Isl Recognition System (LSTM + MediaPipe)
 
 This project is a real-time sign language recognition system that uses a webcam to detect and classify hand and body gestures into predefined phrases such as "hi how are you" and "thank you so much". It leverages MediaPipe for landmark detection (face, pose, and hands) and a Long Short-Term Memory (LSTM) neural network to learn and predict gesture sequences over time.
 
